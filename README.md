@@ -1,1 +1,1 @@
-# loan-calculator using javascript
+# loan calculator using javascript
